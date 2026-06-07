@@ -1,4 +1,6 @@
 # Algo's Journey Through the Land of Data
+![Synfig Studio](https://img.shields.io/badge/Synfig-Studio-blue)
+![2D Animation](https://img.shields.io/badge/2D-Animation-orange)
 
 ## Educational Animation Series using Synfig Studio
 
